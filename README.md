@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964665795&text=Olá!)](https://api.whatsapp.com/send?phone=5511964665795&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brancoraphael@hotmail.com)](mailto:brancoraphael@hotmail.com)
 
-## Olá! <img src="https://github.com/RBranco1/RBranco1/blob/master/assets/hi.gif" width="22px">
+## Olá! 👋
 
 Meu nome é Raphael Branco, 17, apaixonado por Tecnologia e Programação! :heart:
 
