@@ -7,10 +7,10 @@
 
 ## Olá! 👋
 
-Meu nome é Raphael Branco, 18, apaixonado por Tecnologia e Programação! :heart:
+Meu nome é Raphael Branco, 20, apaixonado por Tecnologia e Programação! :heart:
 
-- :office_worker: Estudante de ciência da computação na [**Senac**](https://www.sp.senac.br/graduacao/curso/bacharelado/ciencia-da-computacao)
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, entre outras.
+- :office_worker: Estudante de sistemas de informação na [**Senac**](https://www.sp.senac.br/graduacao/curso/bacharelado/ciencia-da-computacao)
+- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, e entrando no mundo de cloud com AWS.
 
 
 ---
